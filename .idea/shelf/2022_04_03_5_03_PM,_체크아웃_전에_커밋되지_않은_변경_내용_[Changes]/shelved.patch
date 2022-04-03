@@ -1,0 +1,13 @@
+Index: workspace/jongyoul/MergeTest2
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Overview\n\n이 파일은 Merge Test를 위한 파일입니다 1111
+===================================================================
+diff --git a/workspace/jongyoul/MergeTest2 b/workspace/jongyoul/MergeTest2
+--- a/workspace/jongyoul/MergeTest2	
++++ b/workspace/jongyoul/MergeTest2	
+@@ -1,3 +1,0 @@
+-# Overview
+-
+-이 파일은 Merge Test를 위한 파일입니다 1111
+\ No newline at end of file
